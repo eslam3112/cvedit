@@ -1,2 +1,1 @@
-# cvedit
-..
+# myres
